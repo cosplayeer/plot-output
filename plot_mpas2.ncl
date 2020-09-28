@@ -17,3 +17,12 @@ longitude = longitude0(17:22)
 print(a)
 printVarSummary(rh)
 printVarSummary(u10)
+
+;output plot 
+;; output plot spd
+;; output plot t2m
+;; output plot spd10
+;; output plot pres
+;; output plot rh
+
+;output csv
